@@ -1,5 +1,6 @@
 # Honda Dealer Management System
-Application for Honda 2Wheeler Dealers
+This is an application for Honda's 2Wheeler Dealers, who can manage their customers like quotation, booking & invoice punching, and chassis & model wise stock inventory, also generate model & executive wise MIS report. Here, I have created an application by using PHP, JQuery, Ajax, jqwidget (Datagrid & Chart). 
+
 ![LoginPage](https://user-images.githubusercontent.com/68228126/95426714-fa426680-0963-11eb-9713-0c593f42925d.png)
 ![Home Page2](https://user-images.githubusercontent.com/68228126/95803466-cf6a6080-0d1d-11eb-82dd-392ccb1aab97.png)
 
